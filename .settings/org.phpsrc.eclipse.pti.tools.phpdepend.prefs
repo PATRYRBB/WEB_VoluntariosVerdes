@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+metrics_enabled=1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1
+metrics_error_max=;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+metrics_error_min=5.0;;;;;;;50.0;;;;;;;11.0;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+metrics_ids=dit;impl;cis;csz;vars;varsi;varsnp;wmc;wmci;wmcnp;cr;rcr;calls;fanout;ccn;ccn2;ca;ce;a;i;d;clsa;clsc;roots;leafs;maxDIT;andc;ahh;nop;noc;noi;nom;nof;loc;cloc;ncloc;lloc;eloc;nom;npath;noam;nocc;noom
+metrics_levels=4;4;4;4;4;4;4;4;4;4;4;4;1;1;8;8;2;2;2;2;2;1;1;1;1;1;1;1;4;4;4;4;4;8;8;8;8;8;4;8;4;4;4
+metrics_names=Depth of Inheritance Tree;Numer of impemented interfaces;Class interface size;Class size;Number of defined class properties;Number of own and inherited class properties;Number of public class properties;Weighted Method per Class;Weighted Method per Class + inherited WMC;Wighted Method per Class for all public class methods;Code rank;Reverse code rank;Number of called methods and functions;Number of referenced types;Cyclomatic Complexity;Extended Cyclomatic Complexity;Afferent coupling;Efferent coupling;Abstraction;Instability;Distance;Number of abstract classes;Number of concrete classes;Number of root classes within the analyzed system;Number of leaf classes;Max Depth of Inheritance Tree value;Average Number of Derived Classes;Average Hierachy Height;Number Of Packages;Number Of Classes;Number Of Interfaces;Number Of Methods;Number Of Functions;Lines of code;Comment lines of code;Non-comment lines of code;Logical lines of code;Executable lines of code;Number of methods;NPath Complexity;Number of added methods;Number of child classes;Number of overwritten methods
+metrics_types=0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+metrics_warning_max=;;;;;;;49.0;;;;;;;10.0;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+metrics_warning_min=;;;;;;;20.0;;;;;;;7.0;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+phpdepend_bad_documentation=false
+phpdepend_coderank_mode=
+phpdepend_exclude_packages=
+phpdepend_optimization=none
+phpdepend_valid_file_extensions=
+phpdepend_without_annotations=false
